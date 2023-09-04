@@ -36,7 +36,9 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
+    "rest_framework",
     'django.contrib.staticfiles',
+    # 'handbook_be.apps.api'
 ]
 
 MIDDLEWARE = [
